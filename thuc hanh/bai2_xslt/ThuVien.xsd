@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="ThuVien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="NXB" maxOccurs="10">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Sach" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="TenSach" type="xs:string"></xs:element>
+                    <xs:element name="TheLoai" type="xs:string"></xs:element>
+                    <xs:element name="SoTrang">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:int">
+                          <xs:minExclusive value="50"/>
+                          <xs:maxExclusive value="400"/>
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="MaSach">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="6"/>
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="TenNXB">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="Tuổi trẻ"/>
+                  <xs:enumeration value="Giáo dục"/>
+                  <xs:enumeration value="Kỹ thuật"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="TenTV" type="xs:ID"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,9 @@
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\bin\Debug\bai1.exe.config
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\bin\Debug\bai1.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\bin\Debug\bai1.pdb
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai1\bai1\obj\Debug\bai1.pdb

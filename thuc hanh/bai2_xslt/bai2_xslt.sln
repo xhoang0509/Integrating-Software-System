@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai2_xslt", "bai2_xslt\bai2_xslt.csproj", "{430A44DD-0EB8-4BB2-91B4-0840AC538D0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F59ACC5-417B-43A6-B635-B91E1E7959A0}"
+	ProjectSection(SolutionItems) = preProject
+		ThuVien.xml = ThuVien.xml
+		ThuVien.xsd = ThuVien.xsd
+		ThuVien.xslt = ThuVien.xslt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430A44DD-0EB8-4BB2-91B4-0840AC538D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430A44DD-0EB8-4BB2-91B4-0840AC538D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430A44DD-0EB8-4BB2-91B4-0840AC538D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430A44DD-0EB8-4BB2-91B4-0840AC538D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF2DBFC-A589-493E-BF12-615FA0391536}
+	EndGlobalSection
+EndGlobal

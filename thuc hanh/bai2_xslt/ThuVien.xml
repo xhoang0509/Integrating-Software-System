@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xslt"?>
+<ThuVien TenTV="Khu A ĐHCN">
+  <NXB TenNXB="Giáo dục">
+    <Sach MaSach="S001">
+      <TenSach>Giáo dục giới tính</TenSach>
+      <TheLoai>Giới tính</TheLoai>
+      <SoTrang>100</SoTrang>
+    </Sach>
+    <Sach MaSach="S0011">
+      <TenSach>Giáo dục giới tính</TenSach>
+      <TheLoai>Giới tính</TheLoai>
+      <SoTrang>150</SoTrang>
+    </Sach>
+  </NXB>
+  <NXB TenNXB="Tuổi trẻ">
+    <Sach MaSach="S002">
+      <TenSach>Tuổi trẻ hết mình</TenSach>
+      <TheLoai>Phát triển bản thân</TheLoai>
+      <SoTrang>70</SoTrang>
+    </Sach>
+  </NXB>
+  <NXB TenNXB="Kỹ thuật">
+    <Sach MaSach="S003">
+      <TenSach>Lập trình hướng đối tượng</TenSach>
+      <TheLoai>Lập trình</TheLoai>
+      <SoTrang>80</SoTrang>
+    </Sach>
+  </NXB>
+</ThuVien>
