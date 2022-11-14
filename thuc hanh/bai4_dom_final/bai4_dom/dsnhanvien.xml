@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Nguyen Xuan Hoang 1</hoten>
+    <diachi>Bac Giang, Viet Nam</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Nguyen Xuan Hoang 2</hoten>
+    <diachi>Bac Giang, Viet Nam</diachi>
+  </nhanvien>
+  <nhanvien manv="1">
+    <hoten>123</hoten>
+    <diachi>12333</diachi>
+  </nhanvien>
+  <nhanvien manv="1">
+    <hoten>1</hoten>
+    <diachi>1</diachi>
+  </nhanvien>
+  <nhanvien manv="2">
+    <hoten>2</hoten>
+    <diachi>2</diachi>
+  </nhanvien>
+  <nhanvien manv="2">
+    <hoten>2</hoten>
+    <diachi>2</diachi>
+  </nhanvien>
+  <nhanvien manv="2">
+    <hoten>2</hoten>
+    <diachi>2</diachi>
+  </nhanvien>
+  <nhanvien manv="2">
+    <hoten>2</hoten>
+    <diachi>2</diachi>
+  </nhanvien>
+</ds>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Trần Văn Hùng</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Bắc Giang, Việt Nam</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Nguyễn Xuân Hoàng</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Bắc Giang, Việt Nam</diachi>
+  </nhanvien>
+</ds>

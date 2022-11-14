@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xslt"?>
+<ThuVien TenTV="Khu A ĐHCN">
+  <NXB TenNXB="Giáo dục">
+    <Sach MaSach="S001">
+      <TenSach>Lập trình Java</TenSach>
+      <TheLoai>Lập trình</TheLoai>
+      <SoTrang>300</SoTrang>
+    </Sach>
+    <Sach MaSach="S002">
+      <TenSach>Lập trình Java</TenSach>
+      <TheLoai>Lập trình</TheLoai>
+      <SoTrang>150</SoTrang>
+    </Sach>
+    <Sach MaSach="S002">
+      <TenSach>Lập trình Java</TenSach>
+      <TheLoai>Lập trình</TheLoai>
+      <SoTrang>151</SoTrang>
+    </Sach>
+  </NXB>
+  <NXB TenNXB="Giáo dục 1">
+    <Sach MaSach="S0011">
+      <TenSach>Lập trình Java1</TenSach>
+      <TheLoai>Lập trình</TheLoai>
+      <SoTrang>100</SoTrang>
+    </Sach>
+  </NXB>
+</ThuVien>

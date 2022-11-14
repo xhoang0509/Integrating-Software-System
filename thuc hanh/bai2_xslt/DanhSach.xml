@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="DanhSach.xslt"?>
+<DS>
+  <congty TenCT="Công ty dược Nam Hà">
+    <donvi>
+      <madv>A01</madv>
+      <tendv>phòng tổ chức</tendv>
+      <dienthoai>0912345678</dienthoai>
+      <nhanvien>
+        <manv>tc01</manv>
+        <hoten>Lê Thu Lan</hoten>
+        <ngaysinh>1988-12-21</ngaysinh>
+        <gioitinh>nữ</gioitinh>
+        <ngaycong>23</ngaycong>
+      </nhanvien>
+      <nhanvien>
+        <manv>tc01</manv>
+        <hoten>Lê Thu Lan</hoten>
+        <ngaysinh>1988-12-21</ngaysinh>
+        <gioitinh>nữ</gioitinh>
+        <ngaycong>20</ngaycong>
+      </nhanvien>
+    </donvi>
+  </congty>
+  <congty TenCT="Công ty dược Nam Hà">
+    <donvi>
+      <madv>A01</madv>
+      <tendv>phòng tổ chức</tendv>
+      <dienthoai>0912345678</dienthoai>
+      <nhanvien>
+        <manv>tc01</manv>
+        <hoten>Lê Thu Lan</hoten>
+        <ngaysinh>1988-12-21</ngaysinh>
+        <gioitinh>nữ</gioitinh>
+        <ngaycong>23</ngaycong>
+      </nhanvien>
+      <nhanvien>
+        <manv>tc01</manv>
+        <hoten>Lê Thu Lan</hoten>
+        <ngaysinh>1988-12-21</ngaysinh>
+        <gioitinh>nữ</gioitinh>
+        <ngaycong>20</ngaycong>
+      </nhanvien>
+    </donvi>
+  </congty>
+</DS>

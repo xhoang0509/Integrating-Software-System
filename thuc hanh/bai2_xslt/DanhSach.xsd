@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="DS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="congty">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="donvi">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="madv"></xs:element>
+                    <xs:element name="tendv"></xs:element>
+                    <xs:element name="dienthoai"></xs:element>
+                    <xs:element name="nhanvien">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="manv"></xs:element>
+                          <xs:element name="hoten"></xs:element>
+                          <xs:element name="ngaysinh"></xs:element>
+                          <xs:element name="gioitinh"></xs:element>
+                          <xs:element name="ngaycong"></xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="TenCY" type="xs:string"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

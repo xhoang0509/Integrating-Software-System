@@ -7,6 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai2_xslt", "bai2_xslt\bai2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F59ACC5-417B-43A6-B635-B91E1E7959A0}"
 	ProjectSection(SolutionItems) = preProject
+		DanhSach.xml = DanhSach.xml
+		DanhSach.xsd = DanhSach.xsd
+		DanhSach.xslt = DanhSach.xslt
 		ThuVien.xml = ThuVien.xml
 		ThuVien.xsd = ThuVien.xsd
 		ThuVien.xslt = ThuVien.xslt
