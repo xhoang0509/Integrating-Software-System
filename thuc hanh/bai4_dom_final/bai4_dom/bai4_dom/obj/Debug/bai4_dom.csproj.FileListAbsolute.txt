@@ -18,3 +18,4 @@ D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai4_dom_final\bai4_
 D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai4_dom_final\bai4_dom\bai4_dom\obj\Debug\bai4_dom.csproj.CoreCompileInputs.cache
 D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai4_dom_final\bai4_dom\bai4_dom\obj\Debug\bai4_dom.exe
 D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai4_dom_final\bai4_dom\bai4_dom\obj\Debug\bai4_dom.pdb
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\thuc hanh\bai4_dom_final\bai4_dom\bai4_dom\obj\Debug\bai4_dom.Form2.resources

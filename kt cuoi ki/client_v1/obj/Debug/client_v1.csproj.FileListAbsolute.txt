@@ -1,0 +1,10 @@
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\bin\Debug\client_v1.exe.config
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\bin\Debug\client_v1.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\bin\Debug\client_v1.pdb
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.csproj.AssemblyReference.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.Form1.resources
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.Properties.Resources.resources
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.csproj.GenerateResource.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.csproj.CoreCompileInputs.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\client_v1\obj\Debug\client_v1.pdb

@@ -1,0 +1,10 @@
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\bin\Debug\GoiWebAPI.exe.config
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\bin\Debug\GoiWebAPI.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\bin\Debug\GoiWebAPI.pdb
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.csproj.AssemblyReference.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.Form1.resources
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.Properties.Resources.resources
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.csproj.GenerateResource.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.csproj.CoreCompileInputs.cache
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.exe
+D:\Haui\ki 7 2022-2023\tich hop he thong phan mem\kt cuoi ki\GoiWebAPI\obj\Debug\GoiWebAPI.pdb

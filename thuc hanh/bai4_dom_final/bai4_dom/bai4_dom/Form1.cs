@@ -123,30 +123,38 @@ namespace bai4_dom
 
         private void btn_Tim_Click(object sender, EventArgs e)
         {
-
             doc.Load(tentep);
             XmlNodeList DS = doc.SelectNodes("/ds/nhanvien");
             XmlElement DS_tim = doc.CreateElement("ds");
             bool isFound = false;
+
+
             foreach (XmlNode nhan_vien in DS)
             {
                 XmlNode ma_nv = nhan_vien.SelectSingleNode("@manv");
-                if (ma_nv.InnerText.Equals(txt_manv.Text))
+                if (ma_nv.InnerText.ToString().Equals(txt_manv.Text.ToString()))
                 {
-                    DS_tim.AppendChild(nhan_vien);
                     isFound = true;
+                    DS_tim.AppendChild(nhan_vien);
                 }
             }
 
-            if (isFound)
+            if (!isFound)
+            {
+                MessageBox.Show("Không tìm thấy nhân viên có mã này!");
+            }
+            else
             {
                 dg_nhanvien.Rows.Clear();
-                dg_nhanvien.Rows.Add();
+                doc.Load(tentep);
                 int sd = 0;
+                dg_nhanvien.ColumnCount = 3;
+                dg_nhanvien.Rows.Add();
+
                 foreach (XmlNode nhan_vien in DS_tim)
                 {
-                    XmlNode ma_nv_tim = nhan_vien.SelectSingleNode("@manv");
-                    dg_nhanvien.Rows[sd].Cells[0].Value = ma_nv_tim.InnerText.ToString();
+                    XmlNode ma_nv = nhan_vien.SelectSingleNode("@manv");
+                    dg_nhanvien.Rows[sd].Cells[0].Value = ma_nv.InnerText.ToString();
                     XmlNode ho_ten = nhan_vien.SelectSingleNode("hoten");
                     dg_nhanvien.Rows[sd].Cells[1].Value = ho_ten.InnerText.ToString();
                     XmlNode dia_chi = nhan_vien.SelectSingleNode("diachi");
@@ -155,11 +163,6 @@ namespace bai4_dom
                     dg_nhanvien.Rows.Add();
                     sd++;
                 }
-            }
-            else
-            {
-                MessageBox.Show("Khong tim thay nhan vien nay");
-                HienThi();
             }
         }
     }

@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ds>
-	<nhanvien manv="nv01">
-		<hoten>
-			<ho>Nguyen Xuan</ho>
-			<ten>Hoang</ten>
-		</hoten>
-		<diachi>Bac Giang</diachi>
-	</nhanvien>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Nguyen Xuan</ho>
+      <ten>Hoang</ten>
+    </hoten>
+    <diachi>Bac Giang</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Nguyen Xuan</ho>
+      <ten>Hoang 2</ten>
+    </hoten>
+    <diachi>Bac Giang</diachi>
+  </nhanvien>
 </ds>

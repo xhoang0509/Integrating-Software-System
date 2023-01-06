@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoWebAPI", "TaoWebAPI.csproj", "{7EB341E1-E4D6-4138-9C8E-9740592D69DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB341E1-E4D6-4138-9C8E-9740592D69DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB341E1-E4D6-4138-9C8E-9740592D69DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB341E1-E4D6-4138-9C8E-9740592D69DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB341E1-E4D6-4138-9C8E-9740592D69DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B21500-3D37-4D18-BD3C-7A775DC20ACD}
+	EndGlobalSection
+EndGlobal
